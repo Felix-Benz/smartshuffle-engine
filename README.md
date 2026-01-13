@@ -19,6 +19,9 @@ Created to replace Spotify's psuedo-random shuffling algorithm.
 - `POST /shuffle` — returns shuffled tracks + metrics
 - `POST /reset_history/{userKey}` — clears stored history for a user
 
+## Demo
+![Swagger Demo](docs/swagger.png)
+
 ## Local Setup (macOS / VS Code)
 ### 1) Start SQL Server
 ```bash

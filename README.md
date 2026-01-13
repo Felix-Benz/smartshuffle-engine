@@ -1,4 +1,4 @@
-# SmartShuffle Engine, a Better Solution to the Playlist Shuffle
+# SmartShuffle Engine: A better solution to the playlist shuffle
 
 An integration-ready ASP.NET Core Web API that accepts playlist data and returns a constraint-based “smart shuffle” order.
 Created to replace Spotify's psuedo-random shuffling algorithm.
